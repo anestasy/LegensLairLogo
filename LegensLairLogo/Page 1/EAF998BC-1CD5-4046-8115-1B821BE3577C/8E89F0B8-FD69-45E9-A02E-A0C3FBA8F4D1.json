@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8E89F0B8-FD69-45E9-A02E-A0C3FBA8F4D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24292745-B30E-480F-B589-F83CC2D1DB5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE38EC2B-AB3F-41C1-ACBF-FC8C5A5E4DF2",
+    "height": 444,
+    "width": 84,
+    "x": 206.1213170420699,
+    "y": 154.5470426920483
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "knife copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -56.5,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5671C0DE-E2CA-420C-ACB9-F3D25C075910",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C521DCEA-08F1-49E5-AC72-8A0E2337DCFC",
+  "verticalSpacing": 0
+}
